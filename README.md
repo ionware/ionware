@@ -12,3 +12,7 @@ I'm a software engineer fascinated by the magical land called the Web. I build s
 - [WhatsApp](https://wa.me/2348032336192)
 
 This README isn't just for you. I keep links to some pieces, which you might find useful  —or not.
+
+### Helpful resources
+#### Javascript
+[Prettier config](Javascript/.prettierrc), [Code quality tools / Static code analysis](Javascript/static-checker.md)
